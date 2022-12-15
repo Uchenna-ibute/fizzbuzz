@@ -1,6 +1,4 @@
 module.exports = function () {
-  module.exports = function () {
-    // write your code here
   
     function fizzBuzz (arr){
   
@@ -27,4 +25,4 @@ module.exports = function () {
     return int;
   
   }
-}
+
